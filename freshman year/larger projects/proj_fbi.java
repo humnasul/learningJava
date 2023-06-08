@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 //importing
-public class Proj_fbi {
+public class proj_fbi {
 //class name
 
     public static void main(String[] args) {

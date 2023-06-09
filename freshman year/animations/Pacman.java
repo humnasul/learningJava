@@ -321,9 +321,7 @@ public class Pacman extends JPanel {
         if (number == 2)
         {
             g.setColor(Color.magenta);
-            g.drawString("The highscore for PacMan is
-
-                    3,333,360!", 150, 280);
+            g.drawString("The highscore for PacMan is 3,333,360!", 150, 280);
 
         }
         if (number == 3)
